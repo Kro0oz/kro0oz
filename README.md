@@ -14,7 +14,7 @@
 
 #                                                                    *Languages and tools*
 
-**Python**:
+**Python**perl*:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/extimative/Python)
 [![perl](https://img.shields.io/badge/perl--black?style=flat&logo=perl&link=https://github.com/Beutrano/perl)](https://github.com/https://github.com/extimative/perl)
 
@@ -24,3 +24,9 @@
 
 **Software development**
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/extimative "Visual Studio")](https://github.com/Cmmdx0)
+
+
+#                                                                    *STATS*
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extimative&show_icons=true&theme=dark)](https://github.com/extimative/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=kro0oz&show_icons=true&theme=dark)
