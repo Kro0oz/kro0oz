@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/channel/UCAkEEbGfdDhyBmkOwm4Lh4w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Slow" height="20" width="20" /></a>
 </p>
 
-<img align="right" alt="GIF" height="250" width="250"  src="https://www.pikpng.com/pngl/b/198-1987903_computer-overlays-vaporwave-aesthetic-tabs-aesthetic-computer-window.png" />
+<img align="right" alt="GIF" height="250" width="250"  src="https://w7.pngwing.com/pngs/711/690/png-transparent-anime-drawing-tetsuya-kuroko-headphones-anime.png" />
 
 <p align="center">Hello, my name is kro0oz, I'm just a c0der for hobby</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=extimative" alt="maykbrito" /> </p>
