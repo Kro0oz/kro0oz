@@ -7,4 +7,3 @@ https://www.youtube.com/channel/UCAkEEbGfdDhyBmkOwm4Lh4w
 
 
 
-![python](https://user-images.githubusercontent.com/72355033/115529545-ab26a800-a29b-11eb-94cd-500c8a594dcc.png)
