@@ -7,3 +7,7 @@ https://www.youtube.com/channel/UCAkEEbGfdDhyBmkOwm4Lh4w
 
 
 
+Languages and Tools:
+
+bash bootstrap canvasjs css3 docker express figma firebase html5 javascript mongodb nginx nodejs react sass tailwind typescript unity
+How I became a developer?
