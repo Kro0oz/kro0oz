@@ -16,7 +16,7 @@
 
 **Python**:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/extimative/Python)
-[![perl](https://img.shields.io/badge/--black?style=flat&logo=python&link=https://github.com/Beutrano/perl)](https://github.com/https://github.com/extimative/perl)
+[![perl](https://img.shields.io/badge/perl--black?style=flat&logo=python&link=https://github.com/Beutrano/perl)](https://github.com/https://github.com/extimative/perl)
 
 
 ### Tools
