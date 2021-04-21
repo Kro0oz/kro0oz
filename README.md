@@ -1,4 +1,4 @@
-#                                                                    *kro0oz*
+#                                                                    
 
 <p align="center">
 <a href="https://twitter.com/1337kro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kro" height="20" width="20" /></a>
