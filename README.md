@@ -1,8 +1,26 @@
-### Hello, my name is kro0oz, I'm just a c0der for hobby![302f33353163616637326337356166643863353834353936383763343665333865632e706e673f393530266865696768743d323034 pn](https://user-images.githubusercontent.com/72355033/115482344-231eaf00-a257-11eb-8fb8-a80bf098b682.png)
+#                                                                    *kro0oz*
 
-```
-youtube
-```
-https://www.youtube.com/channel/UCAkEEbGfdDhyBmkOwm4Lh4w 
+<p align="center">
+<a href="https://twitter.com/1337kro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Slow" height="20" width="20" /></a>
+<a href="https://t.me/wisbvb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Slow" height="20" width="20" /></a>
+<a href="https://www.youtube.com/channel/UCAkEEbGfdDhyBmkOwm4Lh4w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Slow" height="20" width="20" /></a>
+</p>
+
+<img align="right" alt="GIF" height="250" width="250"  src="https://www.pikpng.com/pngl/b/198-1987903_computer-overlays-vaporwave-aesthetic-tabs-aesthetic-computer-window.png" />
+
+<p align="center">Hello, my name is kro0oz, I'm just a c0der for hobby</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=extimative" alt="maykbrito" /> </p>
 
 
+#                                                                    *Languages and tools*
+
+**Python**:
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/extimative/Python)
+[![perl](https://img.shields.io/badge/--black?style=flat&logo=python&link=https://github.com/Beutrano/perl)](https://github.com/https://github.com/extimative/perl)
+
+
+### Tools
+
+
+**Software development**
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/extimative "Visual Studio")](https://github.com/Cmmdx0)
