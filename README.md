@@ -1,4 +1,6 @@
 ### Hello, my name is kro0oz, I'm just a c0der for hobby 👋
-![photo_2021-04-21_03-26-57](https://user-images.githubusercontent.com/72355033/115482192-c7ecbc80-a256-11eb-900f-d5003e1867ee.jpg)
+
+![302f33353163616637326337356166643863353834353936383763343665333865632e706e673f393530266865696768743d323034 pn](https://user-images.githubusercontent.com/72355033/115482344-231eaf00-a257-11eb-8fb8-a80bf098b682.png)
+
 
 
