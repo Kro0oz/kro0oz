@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" height="250" width="250"  src="https://www.pikpng.com/pngl/b/198-1987903_computer-overlays-vaporwave-aesthetic-tabs-aesthetic-computer-window.png" />
 
 <p align="center">Hello, my name is kro0oz, I'm just a c0der for hobby</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=extimative" alt="maykbrito" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kro0oz" alt="maykbrito" /> </p>
 
 
 #                                                                    *Languages and tools*
