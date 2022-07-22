@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://twitter.com/1337kro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kro" height="20" width="20" /></a>
-<a href="https://t.me/wisbvb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kro" height="20" width="20" /></a>
+<a href="https://t.me/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kro" height="20" width="20" /></a>
 <a href="https://www.youtube.com/channel/UCAkEEbGfdDhyBmkOwm4Lh4w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kro" height="20" width="20" /></a>
 </p>
 
@@ -18,6 +18,7 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/extimative/Python)
 [![perl](https://img.shields.io/badge/perl--black?style=flat&logo=perl&link=https://github.com/Beutrano/perl)](https://github.com/https://github.com/extimative/perl)
 [![php](https://img.shields.io/badge/php--black?style=flat&logo=php&link=https://github.com/Beutrano/php)](https://github.com/https://github.com/extimative/php)
+[![ruby](https://img.shields.io/badge/-ruby-black?style=flat&logo=ruby&link=https://github.com/Beutrano/ruby)](https://github.com/https://github.com/extimative/ruby)
 
 ### Tools
 
