@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/channel/UCAkEEbGfdDhyBmkOwm4Lh4w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kro" height="20" width="20" /></a>
 </p>
 
-<img align="right" alt="GIF" height="250" width="250"  src="[https://www.dictionary.com/e/wp-content/uploads/2018/06/greater-than-sign-2.jpg](https://camo.githubusercontent.com)?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODQwIiwicGF0aCI6IlwvZlwvNDgxNWE2Y2MtN2EwZS00NGIyLTk0YjctZmJjMzFhNTUxNjBjXC9kYnhsdm45LWVkYzZkNTRhLThjNjQtNDE1OS05ZDBlLTc5NTRiM2JmYzk4Yi5wbmciLCJ3aWR0aCI6Ijw9NjQyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-6SmdXli-cX58LLjLU-6lJN7g8tzGu4mJwYd1_tlLTY" />
+
 
 <p align="center">Hello, my name is kro0oz, I'm just a c0der for hobby</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kro0oz" alt="maykbrito" /> </p>
