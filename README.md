@@ -25,6 +25,7 @@
 
 **Software development**
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/kro0oz "Visual Studio")](https://github.com/Cmmdx0)
+[![pycharm](https://img.shields.io/badge/-007ACC?style=flat&logo=pycharm&logoColor=white&link=https://github.com/kro0oz "pycharm")](https://github.com/Cmmdx0)
 
 
 #                                                                     *STATS*
