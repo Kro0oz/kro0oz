@@ -14,20 +14,23 @@
 
 #                                                                    *Languages and tools*
 
-**Python**perl*:
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/extimative/Python)
-[![perl](https://img.shields.io/badge/perl--black?style=flat&logo=perl&link=https://github.com/Beutrano/perl)](https://github.com/https://github.com/extimative/perl)
-[![php](https://img.shields.io/badge/php--black?style=flat&logo=php&link=https://github.com/Beutrano/php)](https://github.com/https://github.com/extimative/php)
-[![ruby](https://img.shields.io/badge/-ruby-black?style=flat&logo=ruby&link=https://github.com/Beutrano/ruby)](https://github.com/https://github.com/extimative/ruby)
+![Python](https://img.shields.io/badge/-Python-E34F26?style=for-the-badge&logo=Python&logoColor=fff)
+![perl](https://img.shields.io/badge/-perl-1572B6?style=for-the-badge&logo=perl&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
+![php](https://img.shields.io/badge/-php-3178C6?style=for-the-badge&logo=php&logoColor=fff)
+![ruby](https://img.shields.io/badge/-ruby-339933?style=for-the-badge&logo=ruby&logoColor=fff)
+![c++](https://img.shields.io/badge/-c++-1572B6?style=for-the-badge&logo=c++&logoColor=fff)
 
 ### Tools
 
 
 **Software development**
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/kro0oz "Visual Studio")](https://github.com/Cmmdx0)
-[![pycharm](https://img.shields.io/badge/-007ACC?style=flat&logo=pycharm&logoColor=white&link=https://github.com/kro0oz "pycharm")](https://github.com/Cmmdx0)
-[![codesandbox](https://img.shields.io/badge/-007ACC?style=flat&logo=codesandbox&logoColor=white&link=https://github.com/kro0oz "codesandbox")](https://github.com/Cmmdx0)
-[![Atom](https://img.shields.io/badge/-007ACC?style=flat&logo=Atom&logoColor=white&link=https://github.com/kro0oz "Atom")](https://github.com/Cmmdx0)
+
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-007ACC?style=for-the-badge&logo=VisualStudio&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![codesandbox](https://img.shields.io/badge/-codesandbox-181717?style=for-the-badge&logo=codesandbox&logoColor=fff)
+![pycharm](https://img.shields.io/badge/-pycharm-181717?style=for-the-badge&logo=pycharm&logoColor=fff)
+![Atom](https://img.shields.io/badge/-Atom-007ACC?style=for-the-badge&logo=Atom&logoColor=fff)
 
 #                                                                     *STATS*
 
