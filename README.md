@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/channel/UCAkEEbGfdDhyBmkOwm4Lh4w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kro" height="20" width="20" /></a>
 </p>
 
-
+<img align="right" alt="GIF" src="https://i.pinimg.com/474x/f9/92/86/f992861210f517b651b7d0655d13a287.jpg"/>
 
 <p align="center">Hello, my name is kro0oz, I'm just a c0der for hobby</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kro0oz" alt="maykbrito" /> </p>
